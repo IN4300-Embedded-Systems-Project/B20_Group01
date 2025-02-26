@@ -14,7 +14,6 @@ An IoT-based automated plant watering system that utilizes ESP8266 microcontroll
 ## Key Features
 
 - Automated irrigation based on real-time soil moisture monitoring
-- Dual-section control with independent water pumps
 - Remote monitoring and control via web interface/mobile app
 - WiFi connectivity for IoT functionality
 - Non-corrosive capacitive soil moisture sensors
@@ -47,10 +46,6 @@ An IoT-based automated plant watering system that utilizes ESP8266 microcontroll
 ## Documentation
 
 Detailed documentation including circuit diagrams, implementation details, and user guides can be found in the project report.
-
-## License
-
-[Add your license information here]
 
 ## Faculty of Information Technology
 
